@@ -1,0 +1,50 @@
+{
+  "name": "ocean-remark",
+  "version": "1.0.0",
+  "description": "Contains settings for running the remark tool on OCEAN markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oceanprotocol/ocean-remark.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/oceanprotocol/ocean-remark/issues"
+  },
+  "homepage": "https://github.com/oceanprotocol/ocean-remark#readme",
+  "dependencies": {
+    "dictionary-en": "^3.1.0",
+    "remark": "^13.0.0",
+    "remark-cli": "^9.0.0",
+    "remark-frontmatter": "^3.0.0",
+    "remark-lint-heading-whitespace": "^1.0.0",
+    "remark-lint-maximum-heading-length": "^2.0.1",
+    "remark-lint-maximum-line-length": "^2.0.3",
+    "remark-lint-no-dead-urls": "^1.1.0",
+    "remark-lint-write-good": "^1.2.0",
+    "remark-preset-lint-consistent": "^4.0.0",
+    "remark-preset-lint-markdown-style-guide": "^4.0.0",
+    "remark-preset-lint-recommended": "^5.0.0",
+    "remark-retext": "^4.0.0",
+    "remark-validate-links": "^10.0.3",
+    "retext-contractions": "^4.0.0",
+    "retext-diacritics": "^3.0.0",
+    "retext-english": "^3.0.4",
+    "retext-equality": "^5.7.0",
+    "retext-indefinite-article": "^2.0.3",
+    "retext-passive": "^3.0.0",
+    "retext-profanities": "^6.1.0",
+    "retext-quotes": "^4.0.0",
+    "retext-readability": "^6.0.0",
+    "retext-redundant-acronyms": "^3.0.0",
+    "retext-repeated-words": "^3.0.0",
+    "retext-sentence-spacing": "^4.0.0",
+    "retext-spell": "^4.0.0",
+    "retext-syntax-urls": "^2.0.0",
+    "retext-usage": "^0.5.0"
+  }
+}
